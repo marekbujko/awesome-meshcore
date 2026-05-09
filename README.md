@@ -280,9 +280,8 @@ or IoT sensor networks.
 
 ### Global
 
-- [New Discord](https://meshcore.gg/)
-  Many regional channels exist within this discord server
-- [Old Discord](https://discord.gg/mt7NNZ86RS)
+- [Meshcore.io Discord](https://meshcore.gg/)
+  Many regional channels exist within this Discord server
 - [Reddit r/meshcore](https://www.reddit.com/r/meshcore/)
 - [Forum forum.letsmesh.net](https://forum.letsmesh.net/)
   - with some regional sub-forums
